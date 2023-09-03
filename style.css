@@ -1,0 +1,39 @@
+input[type='submit']{
+
+    margin-top:20px;
+    margin-left: 50%;
+    margin-right: 50%;
+    font-size:1.5em;
+    color:#0e0f0f;
+}
+
+fieldset{
+    background-color:#c4b3a7;+
+
+}
+legend{
+    background-color: #659999 ;
+}
+:required{
+    background-color:#f1efee;
+}
+body{
+    background-color: #c4b3a7;
+}
+h1{
+    font-style:italic;
+    text-align: center;
+
+
+}
+header{
+    background-color:#659999;
+    font-size:1.5em;
+    margin-top:0px;
+
+}
+
+input[type='submit']:hover{
+    background-color: #659999 ;
+   
+}
